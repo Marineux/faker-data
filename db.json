@@ -1,0 +1,32 @@
+{
+    "data": [
+        {
+            "id": 1,
+            "title": "Documentation",
+            "description": "Find information about Next.js features and API.",
+            "href": "https://nextjs.org/docs",
+            "image": ""
+        },
+        {
+            "id": 1,
+            "title": "Tailwindcss",
+            "description": "A utility-first CSS framework for styled components.",
+            "href": "https://tailwindcss.com",
+            "image": ""
+        },
+        {
+            "id": 1,
+            "title": "Framer-Motion",
+            "description": " is a production-ready React animation and gesture library",
+            "href": "https://www.framer.com/docs/",
+            "image": ""
+        },
+        {
+            "id": 4,
+            "title": "Next-Seo",
+            "description": "Next SEO plugin  managing your SEO in Next.js",
+            "href": "https://www.npmjs.com/package/next-seo",
+            "image": ""
+        }
+    ]
+}
