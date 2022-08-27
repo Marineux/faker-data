@@ -17,7 +17,7 @@
         {
             "id": 1,
             "title": "Framer-Motion",
-            "description": " is a production-ready React animation and gesture library",
+            "description": "Production-ready React animation library",
             "href": "https://www.framer.com/docs/",
             "image": "https://cdn.statically.io/gh/Marineux/faker-data/main/assets/anim-smile.jpg"
         },
